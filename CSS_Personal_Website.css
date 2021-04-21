@@ -1,7 +1,7 @@
-.tabs{
+.tabs {
     width: 100%;
     height: 50px;
-    background-color:black;
+    background-color: black;
 }
 
     .tabs a {
@@ -13,8 +13,47 @@
         font-size: 20px;
     }
 
-    .purpose{
-        text-align: center;
+.purpose {
+    text-align: center;
+    padding-bottom: 10px;
+}
 
-        padding-bottom: 10px;
-    }
+img {
+    padding-left: 220px;
+    height: 400px;
+    width: 70%;
+}
+
+.intro {
+    text-align: center;
+}
+
+.par p {
+    text-align: center;
+}
+
+.about {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.par2 p {
+    text-align: center;
+}
+
+.aboutImg {
+    padding-left: 220px;
+    padding-bottom: 50px;
+    height: 400px;
+    width: 70%;
+}
+
+.projects {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-right: 100px;
+}
+
+.projects-intro {
+    text-align: center;
+}
