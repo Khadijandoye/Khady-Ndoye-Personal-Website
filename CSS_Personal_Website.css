@@ -13,7 +13,8 @@
         font-size: 20px;
     }
 
-    #purpose{
+    .purpose{
         text-align: center;
         font-size: 300%;
+        padding-bottom: 10px;
     }
